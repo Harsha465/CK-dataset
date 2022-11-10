@@ -1,0 +1,9 @@
+#Steps to Execute
+1. Download the drive folder and extract its contents
+2. Copy the path of the extracted folder
+3. Open command prompt and type the following commnads
+>> cd [paste the copied path here]
+>> py main.py
+
+4. Press 'q' to close the newly opened image window
+5. You can change the path of the image by modifying the path in line 13 of 'main.py' file
